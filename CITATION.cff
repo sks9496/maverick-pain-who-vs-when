@@ -5,6 +5,7 @@ type: software
 version: 1.0.0
 date-released: 2026-11-12
 license: MIT
+doi: 10.5281/zenodo.24184005
 repository-code: "https://github.com/sks9496/maverick-pain-who-vs-when"
 authors:
   - family-names: Saba
