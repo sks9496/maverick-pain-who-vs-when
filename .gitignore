@@ -1,0 +1,7 @@
+# run outputs and data are never committed
+results/
+data/
+*.rds
+*.RData
+*.Rhistory
+.DS_Store
