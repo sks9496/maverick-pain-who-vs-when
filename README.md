@@ -80,8 +80,8 @@ take a few minutes. All random seeds are fixed.
 ## License and citation
 
 The code is released under the MIT License (see `LICENSE`). Please cite the
-article and the archived release of this repository (Zenodo DOI: to be added
-at release). Citation metadata is in `CITATION.cff`.
+article and the archived release of this repository (https://github.com/sks9496/maverick-pain-who-vs-when;
+Zenodo DOI: to be added at release). Citation metadata is in `CITATION.cff`.
 
 ## Data availability
 
