@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this repository."
+title: "Analysis code for: From 'who?' to 'when?': Decomposing machine learning models of clinically meaningful pain increases in veterans"
+type: software
+version: 1.0.0
+date-released: 2026-11-12
+license: MIT
+authors:
+  - family-names: Saba
+    given-names: Shaddy K.
+    affiliation: "Silver School of Social Work, New York University"
+  - family-names: Luo
+    given-names: Lingzi
+  - family-names: Leightley
+    given-names: Daniel
+  - family-names: Prindle
+    given-names: John
+  - family-names: Allahverdiyeva
+    given-names: Aysha
+  - family-names: Pedersen
+    given-names: Eric R.
+  - family-names: Castro
+    given-names: Carl A.
+  - family-names: Cheek
+    given-names: Kaleb
+  - family-names: Lu
+    given-names: Chenyang
+  - family-names: Davis
+    given-names: Jordan P.
+keywords:
+  - pain
+  - veterans
+  - machine learning
+  - GPBoost
+  - wearables
+  - daily diary
+  - within-person prediction
